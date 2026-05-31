@@ -1,0 +1,119 @@
+# ==========================================
+# 🧬 Gitignore for Genome Sequencing Research
+# ==========================================
+
+# --- Python & Environment Caches ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.venv
+venv/
+ENV/
+env/
+psutil_build/
+.python-version
+
+# --- Jupyter Notebooks & IDEs ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~
+
+# --- Operating System Files ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --- Genomics & Bioinformatics Formats (Strictly Excluded) ---
+# Raw sequencing reads
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fastq.tar.gz
+
+# Reference genome and alignments
+*.fasta
+*.fasta.gz
+*.fa
+*.fa.gz
+*.fna
+*.fna.gz
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+
+# Annotation and feature tracks
+*.gff
+*.gff3
+*.gtf
+*.bed
+*.bed.gz
+*.wig
+*.bigWig
+*.bw
+*.maf
+
+# Variant Call Format (VCF) and indices
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.bcf
+*.csi
+
+# --- Machine Learning Weights & Checkpoints (Large Binaries) ---
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.hdf5
+*.bin
+*.onnx
+*.pb
+*.pb.gz
+*.npy
+*.npz
+*.pkl
+*.pickle
+/models/checkpoints/
+/models/saved_models/
+
+# --- Local Datasets & Temporary Directories ---
+/datasets/raw/
+/datasets/processed/
+/experiments/logs/
+/experiments/results/
+!/datasets/.gitkeep
+!/experiments/.gitkeep
+!/models/.gitkeep
