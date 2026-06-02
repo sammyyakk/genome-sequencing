@@ -1,6 +1,7 @@
-# 📄 Paper 8: Pending Self-Selected Paper 4 Title
-*   **Journal / Conference**: TBC (TBC)
-*   **DOI**: `TBC`
+# 📄 Paper 8: Genomics enters the deep learning era
+*   **Journal / Conference**: PeerJ (2022)
+*   **DOI**: `10.7717/peerj.13613`
+*   **Link**: [PeerJ](https://peerj.com/articles/13613/)
 
 ---
 

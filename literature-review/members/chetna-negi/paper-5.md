@@ -1,6 +1,7 @@
-# 📄 Paper 5: Pending Self-Selected Paper 1 Title
-*   **Journal / Conference**: TBC (TBC)
-*   **DOI**: `TBC`
+# 📄 Paper 5: Deep learning for genomics using Janggu
+*   **Journal / Conference**: Nature Communications (2020)
+*   **DOI**: `10.1038/s41467-020-17155-y`
+*   **Link**: [Nature Communications](https://www.nature.com/articles/s41467-020-17155-y)
 
 ---
 

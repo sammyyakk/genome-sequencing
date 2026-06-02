@@ -46,10 +46,7 @@ Our multi-disciplinary team brings together expertise in deep learning, computat
 | **Bhumika** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/bhumika/) | [`@bhumika`](https://github.com/bhumika) |
 | **Chetna Negi** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/chetna-negi/) | [`@chetna-negi`](https://github.com/chetna-negi) |
 | **Avni Kanungo** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/avni-kanungo/) | [`@avni-kanungo`](https://github.com/avni-kanungo) |
-| *Placeholder Member 1* | 🔬 Research Member | [Pending](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/placeholder-member-1/) | `--` |
-| *Placeholder Member 2* | 🔬 Research Member | [Pending](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/placeholder-member-2/) | `--` |
 
-*(2 more members yet to respond — placeholder folders are pre-allocated)*
 
 ---
 
@@ -103,9 +100,9 @@ Genome-Sequencing/
 │       ├── dhriti-goswami/         # Pre-filled reviews for Dhriti Goswami
 │       ├── hitanshi-bedi/          # Pre-filled reviews for Hitanshi Bedi
 │       ├── kamakshi/               # Pre-filled reviews for Kamakshi
-│       ├── lavanya-mathur/         # Pre-filled reviews for Lavanya Mathur
-│       └── placeholder-member-[1-2]/ # Pre-allocated placeholder folders
+│       └── lavanya-mathur/         # Pre-filled reviews for Lavanya Mathur
 ├── problems/                       # Target problem definitions and pipeline architecture
+
 │   ├── problem-3-variant-prioritization/
 │   │   └── README.md               # Pipeline for filtering & ranking pathogenic mutations
 │   └── problem-4-genome-assembly/

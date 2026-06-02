@@ -1,6 +1,7 @@
-# 📄 Paper 6: Pending Self-Selected Paper 2 Title
-*   **Journal / Conference**: TBC (TBC)
-*   **DOI**: `TBC`
+# 📄 Paper 6: Twelve quick steps for genome assembly and annotation in the classroom
+*   **Journal / Conference**: PLOS Computational Biology (2020)
+*   **DOI**: `10.1371/journal.pcbi.1008325`
+*   **Link**: [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008325)
 
 ---
 

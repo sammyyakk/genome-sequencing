@@ -1,6 +1,7 @@
-# 📄 Paper 9: Pending Self-Selected Paper 5 Title
-*   **Journal / Conference**: TBC (TBC)
-*   **DOI**: `TBC`
+# 📄 Paper 9: Genomic benchmarks: a collection of datasets for genomic sequence classification
+*   **Journal / Conference**: BMC Genomic Data (2023)
+*   **DOI**: `10.1186/s12863-023-01123-8`
+*   **Link**: [BMC Genomic Data](https://link.springer.com/article/10.1186/s12863-023-01123-8)
 
 ---
 

@@ -95,7 +95,12 @@ The following sections list the approved paper selections for each researcher. U
 
 ### 10. Chetna Negi
 *   **Paper Selections**:
-    *   *Claimed Papers Pending* | Pre-allocated in `literature-review/members/chetna-negi/` | DOIs: `TBC`
+    1.  *Deep learning for genomics using Janggu* | Nature Communications (2020) | DOI: `10.1038/s41467-020-17155-y`
+    2.  *Twelve quick steps for genome assembly and annotation in the classroom* | PLOS Computational Biology (2020) | DOI: `10.1371/journal.pcbi.1008325`
+    3.  *EvalDNA: a machine learning-based tool for the comprehensive evaluation of mammalian genome assembly quality* | BMC Bioinformatics (2021) | DOI: `10.1186/s12859-021-04480-2`
+    4.  *Genomics enters the deep learning era* | PeerJ (2022) | DOI: `10.7717/peerj.13613`
+    5.  *Genomic benchmarks: a collection of datasets for genomic sequence classification* | BMC Genomic Data (2023) | DOI: `10.1186/s12863-023-01123-8`
+
 
 ### 11. Avni Kanungo
 *   **Paper Selections**:

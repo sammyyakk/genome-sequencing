@@ -1,6 +1,7 @@
-# 📄 Paper 7: Pending Self-Selected Paper 3 Title
-*   **Journal / Conference**: TBC (TBC)
-*   **DOI**: `TBC`
+# 📄 Paper 7: EvalDNA: a machine learning-based tool for the comprehensive evaluation of mammalian genome assembly quality
+*   **Journal / Conference**: BMC Bioinformatics (2021)
+*   **DOI**: `10.1186/s12859-021-04480-2`
+*   **Link**: [BMC Bioinformatics](https://link.springer.com/article/10.1186/s12859-021-04480-2)
 
 ---
 

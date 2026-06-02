@@ -21,16 +21,16 @@ This directory houses the systematic literature reviews for Chetna Negi. Follow 
 
 ## 🔬 Section 2: Self-Selected Papers
 
-5.  **[Paper 5: Pending Self-Selected Paper 1 Title](paper-5.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
-6.  **[Paper 6: Pending Self-Selected Paper 2 Title](paper-6.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
-7.  **[Paper 7: Pending Self-Selected Paper 3 Title](paper-7.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
-8.  **[Paper 8: Pending Self-Selected Paper 4 Title](paper-8.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
-9.  **[Paper 9: Pending Self-Selected Paper 5 Title](paper-9.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
+5.  **[Paper 5: Deep learning for genomics using Janggu](paper-5.md)**
+    *   *Nature Communications (2020)* | DOI: `10.1038/s41467-020-17155-y`
+6.  **[Paper 6: Twelve quick steps for genome assembly and annotation in the classroom](paper-6.md)**
+    *   *PLOS Computational Biology (2020)* | DOI: `10.1371/journal.pcbi.1008325`
+7.  **[Paper 7: EvalDNA: a machine learning-based tool for the comprehensive evaluation of mammalian genome assembly quality](paper-7.md)**
+    *   *BMC Bioinformatics (2021)* | DOI: `10.1186/s12859-021-04480-2`
+8.  **[Paper 8: Genomics enters the deep learning era](paper-8.md)**
+    *   *PeerJ (2022)* | DOI: `10.7717/peerj.13613`
+9.  **[Paper 9: Genomic benchmarks: a collection of datasets for genomic sequence classification](paper-9.md)**
+    *   *BMC Genomic Data (2023)* | DOI: `10.1186/s12863-023-01123-8`
 
 ---
 
