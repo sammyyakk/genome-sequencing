@@ -45,7 +45,7 @@ Our multi-disciplinary team brings together expertise in deep learning, computat
 | **Lavanya Mathur** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/lavanya-mathur/) | [`@lavanya-mathur`](https://github.com/lavanya-mathur) |
 | **Bhumika** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/bhumika/) | [`@bhumika`](https://github.com/bhumika) |
 | **Chetna Negi** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/chetna-negi/) | [`@chetna-negi`](https://github.com/chetna-negi) |
-| **Avni Kanungo** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/avni-kanungo/) | [`@avni-kanungo`](https://github.com/avni-kanungo) |
+| **Avni Kanungo** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/avnikanungo/) | [`@avnikanungo`](https://github.com/avnikanungo) |
 
 
 ---
