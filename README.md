@@ -35,7 +35,7 @@ Our multi-disciplinary team brings together expertise in deep learning, computat
 | Name | Role | Literature Review | GitHub Profile |
 | :--- | :--- | :---: | :--- |
 | **Samyak Jain** | 👑 Team & Research Lead | *Exempt* | [`@samyak-jain`](https://github.com/samyak-jain) |
-| **Akshita Goel** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/akshita-goel/) | [`@akshita-goel`](https://github.com/akshita-goel) |
+| **Akshita Goel** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/akshita-goel/) | [`AKSHITA-DEBUG`](https://github.com/AKSHITA-DEBUG) |
 | **Abhiraj Arya** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/abhiraj-arya/) | [`@abhiraj-arya`](https://github.com/abhiraj-arya) |
 | **Hitanshi Bedi** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/hitanshi-bedi/) | [`@hitanshi-bedi`](https://github.com/hitanshi-bedi) |
 | **Dhriti Goswami** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/dhriti-goswami/) | [`@dhriti-goswami`](https://github.com/dhriti-goswami) |
