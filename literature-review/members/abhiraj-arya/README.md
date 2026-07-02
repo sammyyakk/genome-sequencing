@@ -8,13 +8,13 @@ This directory houses the systematic literature reviews for Abhiraj Arya. Follow
 
 ## 🔬 Section 1: Assigned Papers (Shared Reviews)
 
-1.  **[Paper 1: A survey of sequence alignment algorithms for next-generation sequencing](paper-1.md)**
-    *   *Nature Reviews Genetics (2019)* | DOI: `10.1038/nrg.2019.0122-6`
-2.  **[Paper 2: Accurate detection of complex structural variants using single-molecule long-read sequencing](paper-2.md)**
+1.  **[Paper 1: Deep learning: new computational modelling techniques for genomics](paper-1.md)**
+    *   *Nature Reviews Genetics (2019)* | DOI: `10.1038/s41576-019-0122-6`
+2.  **[Paper 2: A universal SNP and small-indel variant caller using deep neural networks](paper-2.md)**
     *   *Nature Biotechnology (2018)* | DOI: `10.1038/nbt.4235`
-3.  **[Paper 3: De novo genome assembly of human genomes using single-molecule long-read sequencing](paper-3.md)**
+3.  **[Paper 3: An integrated encyclopedia of DNA elements in the human genome](paper-3.md)**
     *   *Nature (2012)* | DOI: `10.1038/nature11247`
-4.  **[Paper 4: Haplotype-aware variant calling with PEPPER-Margin-DeepVariant](paper-4.md)**
+4.  **[Paper 4: Cell2location maps fine-grained cell types in spatial transcriptomics](paper-4.md)**
     *   *Nature Biotechnology (2022)* | DOI: `10.1038/s41587-021-01139-4`
 
 ---
@@ -27,11 +27,12 @@ This directory houses the systematic literature reviews for Abhiraj Arya. Follow
     *   *Briefings in Bioinformatics (2022)* | DOI: `10.1093/bib/bbac141`
 7.  **[Paper 7: Beyond Sequencing: Machine Learning Algorithms Extract Biology Hidden in Nanopore Signal Data](paper-7.md)**
     *   *Nature Methods (2021)* | DOI: `10.1038/s41592-021-01101-0`
-8.  **[Paper 8: Deep Learning: New Computational Modelling Techniques for Genomics](paper-8.md)**
-    *   *Nature Reviews Genetics (2019)* | DOI: `10.1038/s41576-018-0026-1`
+8.  **[Paper 8: Machine learning approaches for advanced detection of rare genetic 
+        disorders in whole-genome sequencing](paper-8.md)**
+    *   *ScienceDirect (2024)* | DOI: `10.1016/j.aej.2024.08.056`
 9.  **[Paper 9: Highly Accurate Protein Structure Prediction with AlphaFold](paper-9.md)**
     *   *Nature (2021)* | DOI: `10.1038/s41586-021-03819-2`
-
+    
 ---
 
 ## 🏁 Section 3: Synthesis Summary

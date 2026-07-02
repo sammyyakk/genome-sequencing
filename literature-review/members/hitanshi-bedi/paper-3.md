@@ -1,4 +1,4 @@
-# 📄 Paper 3: De novo genome assembly of human genomes using single-molecule long-read sequencing
+# 📄 Paper 3: An integrated encyclopedia of DNA elements in the human genome
 *   **Journal / Conference**: Nature (2012)
 *   **DOI**: `10.1038/nature11247`
 *   **Link**: [Nature](https://www.nature.com/articles/nature11247)

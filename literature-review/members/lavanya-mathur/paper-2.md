@@ -1,4 +1,4 @@
-# 📄 Paper 2: Accurate detection of complex structural variants using single-molecule long-read sequencing
+# 📄 Paper 2: A universal SNP and small-indel variant caller using deep neural networks
 *   **Journal / Conference**: Nature Biotechnology (2018)
 *   **DOI**: `10.1038/nbt.4235`
 *   **Link**: [Nature Biotechnology](https://www.nature.com/articles/nbt.4235)

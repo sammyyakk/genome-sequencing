@@ -17,11 +17,11 @@ This is the standard review dossier template. Every team member must copy this f
 
 ## 🔬 Section 1: Assigned Papers (Shared Reviews)
 
-### 📄 Paper 1: A survey of sequence alignment algorithms for next-generation sequencing
+### 📄 Paper 1: Deep learning: new computational modelling techniques for genomics
 *   **Authors**: [Pre-fill or update once known]
 *   **Year**: 2019
 *   **Journal / Conference**: Nature Reviews Genetics
-*   **DOI**: `10.1038/nrg.2019.0122-6`
+*   **DOI**: `10.1038/s41576-019-0122-6`
 *   **Link**: [Nature Reviews Genetics](https://www.nature.com/articles/s41576-019-0122-6)
 
 | Evaluation Field | Researcher Analysis |
@@ -35,7 +35,7 @@ This is the standard review dossier template. Every team member must copy this f
 
 ---
 
-### 📄 Paper 2: Accurate detection of complex structural variants using single-molecule long-read sequencing
+### 📄 Paper 2: A universal SNP and small-indel variant caller using deep neural networks
 *   **Authors**: [Pre-fill or update once known]
 *   **Year**: 2018
 *   **Journal / Conference**: Nature Biotechnology
@@ -53,7 +53,7 @@ This is the standard review dossier template. Every team member must copy this f
 
 ---
 
-### 📄 Paper 3: De novo genome assembly of human genomes using single-molecule long-read sequencing
+### 📄 Paper 3: An integrated encyclopedia of DNA elements in the human genome
 *   **Authors**: [Pre-fill or update once known]
 *   **Year**: 2012
 *   **Journal / Conference**: Nature
@@ -71,7 +71,7 @@ This is the standard review dossier template. Every team member must copy this f
 
 ---
 
-### 📄 Paper 4: Haplotype-aware variant calling with PEPPER-Margin-DeepVariant
+### 📄 Paper 4: Cell2location maps fine-grained cell types in spatial transcriptomics
 *   **Authors**: [Pre-fill or update once known]
 *   **Year**: 2022
 *   **Journal / Conference**: Nature Biotechnology

@@ -10,10 +10,10 @@ Every researcher must review the following four foundational genomics publicatio
 
 | # | Paper Title | Journal / Publisher | Year | DOI | Access Link |
 | :-: | :--- | :--- | :-: | :---: | :-: |
-| **1** | A survey of sequence alignment algorithms for next-generation sequencing | *Nature Reviews Genetics* | 2019 | `10.1038/nrg.2019.0122-6` | [View Paper](https://www.nature.com/articles/s41576-019-0122-6) |
-| **2** | Accurate detection of complex structural variants using single-molecule long-read sequencing | *Nature Biotechnology* | 2018 | `10.1038/nbt.4235` | [View Paper](https://www.nature.com/articles/nbt.4235) |
-| **3** | De novo genome assembly of human genomes using single-molecule long-read sequencing | *Nature* | 2012 | `10.1038/nature11247` | [View Paper](https://www.nature.com/articles/nature11247) |
-| **4** | Haplotype-aware variant calling with PEPPER-Margin-DeepVariant | *Nature Biotechnology* | 2022 | `10.1038/s41587-021-01139-4` | [View Paper](https://www.nature.com/articles/s41587-021-01139-4) |
+| **1** | Deep learning: new computational modelling techniques for genomics | *Nature Reviews Genetics* | 2019 | `10.1038/s41576-019-0122-6` | [View Paper](https://www.nature.com/articles/s41576-019-0122-6) |
+| **2** | A universal SNP and small-indel variant caller using deep neural networks | *Nature Biotechnology* | 2018 | `10.1038/nbt.4235` | [View Paper](https://www.nature.com/articles/nbt.4235) |
+| **3** | An integrated encyclopedia of DNA elements in the human genome | *Nature* | 2012 | `10.1038/nature11247` | [View Paper](https://www.nature.com/articles/nature11247) |
+| **4** | Cell2location maps fine-grained cell types in spatial transcriptomics | *Nature Biotechnology* | 2022 | `10.1038/s41587-021-01139-4` | [View Paper](https://www.nature.com/articles/s41587-021-01139-4) |
 
 ---
 

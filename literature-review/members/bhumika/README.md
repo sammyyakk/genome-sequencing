@@ -8,8 +8,8 @@ This directory houses the systematic literature reviews for Bhumika. Follow the 
 
 ## 🔬 Section 1: Assigned Papers (Shared Reviews)
 
-1.  **[Paper 1: Deep Learning: New Computational Modelling Techniques for Genomics](paper-1.md)**
-    *   *Nature Reviews Genetics (2019)* | DOI: `10.1038/nrg.2019.0122-6`
+1.  **[Paper 1: Deep learning: new computational modelling techniques for genomics](paper-1.md)**
+    *   *Nature Reviews Genetics (2019)* | DOI: `10.1038/s41576-019-0122-6`
 2.  **[Paper 2: A universal SNP and small-indel variant caller using deep neural networks](paper-2.md)**
     *   *Nature Biotechnology (2018)* | DOI: `10.1038/nbt.4235`
 3.  **[Paper 3: An integrated encyclopedia of DNA elements in the human genome](paper-3.md)**
