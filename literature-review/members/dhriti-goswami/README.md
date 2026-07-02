@@ -39,13 +39,13 @@ This directory houses the systematic literature reviews for Dhriti Goswami. Foll
 *Leave this section blank until all reviews are complete. Compile these final conclusions to summarize your findings in this folder.*
 
 ### 🔍 Common Themes Across Reviewed Papers
-*   *Theme 1: [your notes here]*
-*   *Theme 2: [your notes here]*
+*   *Theme 1: [Integration of artificial intelligence, deep learning, and computational biology techniques to analyze large-scale genomic, transcriptomic, and spatial datasets more accurately and efficiently]*
+*   *Theme 2: [Integration of multiple biological datasets instead of using a single data source leads to more accurate analysis of genomes, cells, and diseases.]*
 
 ### 🛠️ Key Methods/Tools That Appear Repeatedly
-*   *Method/Tool 1: [your notes here]*
-*   *Method/Tool 2: [your notes here]*
+*   *Method/Tool 1: [Deep learning architecure including CNNs, GNNs, Bayesian models, and transfer learning approaches are widely used for tasks such as variant calling, genome assembly and clinical diagnostics.]*
+*   *Method/Tool 2: [Most studies rely on high-throughput sequencing techniques and multi-omics datasets combined with computational methods inorder to analyze genomic structure, function, and disease mechanisms.]*
 
 ### 🕳️ Gaps in Literature Relevant to Our Project
-*   *Gap 1: [your notes here]*
-*   *Gap 2: [your notes here]*
+*   *Gap 1: [Many AI and genomics methods work well only when they have access to huge amounts of accurate data and powerful computers. This makes it difficult for researchers studying less common species or working with limited resources to use these methods effectively.]*
+*   *Gap 2: [There is still a need for tools that combine different types of biological data and analyses in one platform as the current techniques focus on specific tasks like variant calling , genome assembly etc.]*
