@@ -8,13 +8,13 @@ This directory houses the systematic literature reviews for Bhumika. Follow the 
 
 ## 🔬 Section 1: Assigned Papers (Shared Reviews)
 
-1.  **[Paper 1: A survey of sequence alignment algorithms for next-generation sequencing](paper-1.md)**
+1.  **[Paper 1: Deep Learning: New Computational Modelling Techniques for Genomics](paper-1.md)**
     *   *Nature Reviews Genetics (2019)* | DOI: `10.1038/nrg.2019.0122-6`
-2.  **[Paper 2: Accurate detection of complex structural variants using single-molecule long-read sequencing](paper-2.md)**
+2.  **[Paper 2: A universal SNP and small-indel variant caller using deep neural networks](paper-2.md)**
     *   *Nature Biotechnology (2018)* | DOI: `10.1038/nbt.4235`
-3.  **[Paper 3: De novo genome assembly of human genomes using single-molecule long-read sequencing](paper-3.md)**
+3.  **[Paper 3: An integrated encyclopedia of DNA elements in the human genome](paper-3.md)**
     *   *Nature (2012)* | DOI: `10.1038/nature11247`
-4.  **[Paper 4: Haplotype-aware variant calling with PEPPER-Margin-DeepVariant](paper-4.md)**
+4.  **[Paper 4: Cell2location maps fine-grained cell types in spatial transcriptomics](paper-4.md)**
     *   *Nature Biotechnology (2022)* | DOI: `10.1038/s41587-021-01139-4`
 
 ---
@@ -22,15 +22,15 @@ This directory houses the systematic literature reviews for Bhumika. Follow the 
 ## 🔬 Section 2: Self-Selected Papers
 
 5.  **[Paper 5: Best Practices for Variant Calling in Clinical Sequencing](paper-5.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
+    *   *Genome Medicine (2020)* | DOI: `10.1186/s13073-020-00791-w`
 6.  **[Paper 6: Whole-Genome Sequencing Surveillance and Machine Learning for Healthcare Outbreak Detection and Investigation: A Systematic Review and Summary](paper-6.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
+    *   *Antimicrobial Stewardship & Healthcare Epidemiology (2022)* | DOI: `10.1017/ash.2021.241`
 7.  **[Paper 7: Comparison of Three Variant Callers for Human Whole Genome Sequencing](paper-7.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
+    *   *Scientific Reports (2018))* | DOI: `10.1038/s41598-018-36177-7`
 8.  **[Paper 8: Machine Learning Enables Detection of Early-Stage Colorectal Cancer by Whole-Genome Sequencing of Plasma Cell-Free DNA](paper-8.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
+    *   *BMC Cancer (2019)* | DOI: `10.1186/s12885-019-6003-8`
 9.  **[Paper 9: Prediction of Antimicrobial Resistance Based on Whole-Genome Sequencing and Machine Learning](paper-9.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
+    *   *Bioinformatics (2022)* | DOI: `10.1093/bioinformatics/btab681`
 
 ---
 
@@ -39,13 +39,13 @@ This directory houses the systematic literature reviews for Bhumika. Follow the 
 *Leave this section blank until all reviews are complete. Compile these final conclusions to summarize your findings in this folder.*
 
 ### 🔍 Common Themes Across Reviewed Papers
-*   *Theme 1: [your notes here]*
-*   *Theme 2: [your notes here]*
+*   *Theme 1: [Accuracy of variant calling depends heavily on tool choice and depth so no single tool is perfect, and combining multiple tools (or using AI-based ones like DeepVariant) consistently improves results across nearly all papers reviewed.]*
+*   *Theme 2: [Combining multiple orthogonal data sources such as genomic data with electronic health records, single-cell with spatial datan, or DNA with epigenetic marks consistently improves accuracy over using any single data type alone.]*
 
 ### 🛠️ Key Methods/Tools That Appear Repeatedly
-*   *Method/Tool 1: [your notes here]*
-*   *Method/Tool 2: [your notes here]*
+*   *Method/Tool 1: [GATK (HaplotypeCaller) used as the "gold standard" baseline variant caller across multiple papers for comparison against newer methods.]*
+*   *Method/Tool 2: [Convolutional Neural Networks (CNNs) used repeatedly for sequence-based prediction tasks, including DeepVariant , AMR prediction , and general genomics deep learning applications.]*
 
 ### 🕳️ Gaps in Literature Relevant to Our Project
-*   *Gap 1: [your notes here]*
-*   *Gap 2: [your notes here]*
+*   *Gap 1: [Most studies (e.g., outbreak detection, Paper 6) are retrospective rather than real-time, limiting practical clinical impact so real-time genome sequencing pipelines remain underexplored.]*
+*   *Gap 2: [Structural variant (SV) detection remains far less accurate (F1 ~0.80–0.90) than SNV/indel detection (F1 ~0.98–0.99) across all variant-calling papers, showing a clear technical gap our project should be aware of when choosing tools.]*
